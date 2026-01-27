@@ -1,4 +1,5 @@
-# DentalConnect: Klinik Kayıt ve Giriş Sistemi 🦷💻
+# ClinicGate-Web
+: Klinik Kayıt ve Giriş Sistemi 🦷💻
 
 Bu proje, diş klinikleri için özel olarak tasarlanmış, güvenli ve kullanıcı dostu bir yetkilendirme (Authentication) modülüdür. Kullanıcıların (hasta veya personel) sisteme güvenli bir şekilde kayıt olmasını ve giriş yapmasını sağlar.
 
